@@ -109,14 +109,6 @@ export const menuCategories = [
         tags: ["Végétalien"],
         image: "/images/jus-pomme.jpg"
       },
-      {
-        id: "b2",
-        name: "Vin Rouge (Verre)",
-        description: "Sélection du sommelier, vallée du Rhône.",
-        price: 6.00,
-        tags: ["Alcool"],
-        image: "/images/vin-rouge.jpg"
-      }
     ]
   }
 ];
